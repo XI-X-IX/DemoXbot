@@ -1,6 +1,6 @@
-# Demo
+# Démo
 
-**Demo** d'un bot de trading automatisé pour Binance utilisant l'indicateur **RSI (Relative Strength Index)** pour prendre des décisions d'achat et de vente sur la paire **BTC/USDT**.
+**Démo** d'un bot de trading automatisé pour Binance utilisant l'indicateur **RSI (Relative Strength Index)** pour prendre des décisions d'achat et de vente sur la paire **BTC/USDT**.
 
 <br>
 
